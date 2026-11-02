@@ -1,0 +1,11 @@
+[
+  {
+    "id": "java-junior",
+    "ruolo": "Java developer",
+    "seniority": "Junior",
+    "italia": true,
+    "europa": true,
+    "remoto": true,
+    "attivo": true
+  }
+]
