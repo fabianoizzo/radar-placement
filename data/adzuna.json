@@ -1,44 +1,36 @@
 {
- "generato": "2026-11-03T12:50:18+00:00",
+ "generato": "2026-11-04T13:00:44+00:00",
  "giorni_max": 14,
  "profili": [
   "java-junior"
  ],
- "errori": [],
+ "errori": [
+  "java-junior/it: HTTP 503",
+  "java-junior/nl: HTTP 503",
+  "java-junior/pl: HTTP 503"
+ ],
  "risultati": [
   {
    "profiloId": "java-junior",
-   "adzunaId": "5939448187",
-   "titolo": "Junior Java developer",
-   "azienda": "Lavoropiù",
-   "citta": "Piacenza, Provincia di Piacenza",
-   "paese": "Italia",
-   "pubblicato": "2026-10-23",
-   "url": "https://www.adzuna.it/details/5939448187?utm_medium=api&utm_source=76bb5840",
+   "adzunaId": "5952553128",
+   "titolo": "Junior Java Developer (m/w/d)",
+   "azienda": "Senacor Technologies",
+   "citta": "Deutschland",
+   "paese": "Germania",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.de/land/ad/5952553128?se=GOJ4t0_Y8RGW3YhRPv820g&utm_medium=api&utm_source=76bb5840&v=EDA717CA60CFEC31B54439DF1AEA6CE0CCAE7367",
    "contratto": "",
-   "descrizione": "Dettaglio offerta di lavoro Luogo di lavoro: PIACENZA (PC) Tipo di contratto: Apprendistato Orario: Tempo Pieno Fascia di RAL: 30.000 – 35.000 € la retribuzione verrà quantificata sulla base di criteri oggettivi e neutri sotto il profilo del genere e alle pertinenti disposizioni del contratto collettivo applicato in relazione alla posizione. Descrizione del ruolo Ictpiù divisione Tech&Digital del "
+   "descrizione": "Über SenacorDu brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack.Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexible "
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5938985268",
-   "titolo": "Developer Java Junior",
-   "azienda": "ML ENGINE S.R.L.",
-   "citta": "Verona, Provincia di Verona",
-   "paese": "Italia",
-   "pubblicato": "2026-10-23",
-   "url": "https://www.adzuna.it/details/5938985268?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Per un nostro cliente siamo alla ricerca di un Junior Developer Java, da inserire in un contrasto assicurativo che abbia i seguenti requisiti: Spring DB2 Angular esperienza almeno biennale Il presente annuncio è rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91, e a persone di tutte le età e tutte le nazionalità, ai sensi dei decreti legislativi 215/03 e 216/03"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5951181121",
+   "adzunaId": "5952365188",
    "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
    "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
    "citta": "Anderten, Hannover",
    "paese": "Germania",
-   "pubblicato": "2026-11-03",
-   "url": "https://www.adzuna.de/details/5951181121?utm_medium=api&utm_source=76bb5840",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.de/details/5952365188?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
   },
@@ -134,7 +126,7 @@
    "citta": "Deutschland",
    "paese": "Germania",
    "pubblicato": "2026-11-01",
-   "url": "https://www.adzuna.de/land/ad/5949481981?se=tLIrGIXX8RGccYoPu-e9eg&utm_medium=api&utm_source=76bb5840&v=2A5385C4E499B94C77B2FFFA32AEB91B51ADA677",
+   "url": "https://www.adzuna.de/land/ad/5949481981?se=GOJ4t0_Y8RGW3YhRPv820g&utm_medium=api&utm_source=76bb5840&v=2A5385C4E499B94C77B2FFFA32AEB91B51ADA677",
    "contratto": "",
    "descrizione": "Junior Java Developer (m/w/d) - Konstanz Bewerben Sie sich (indem Sie auf die entsprechende Schaltfläche klicken), nachdem Sie alle Informationen zu dieser Stelle durchgelesen haben. Festanstellung, Vollzeit · Konstanz Deine Aufgaben Du bist überzeugt, dass innovative Technologie und Software gesellschaftlich relevante Themen unterstützt, verändert und vorantreibt? Das sind wir auch! Unsere Kund:i"
   },
@@ -152,18 +144,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5945390130",
-   "titolo": "Junior Java Developer (m/w/d)",
-   "azienda": "Senacor Technologies AG",
-   "citta": "Berlin, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-10-29",
-   "url": "https://www.adzuna.de/land/ad/5945390130?se=tLIrGIXX8RGccYoPu-e9eg&utm_medium=api&utm_source=76bb5840&v=46C669830855055258EB80DA562EEAC915A9E683",
-   "contratto": "",
-   "descrizione": "Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexible Zusammenarb"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5945373724",
    "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
    "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
@@ -173,30 +153,6 @@
    "url": "https://www.adzuna.de/details/5945373724?utm_medium=api&utm_source=76bb5840",
    "contratto": "permanent",
    "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5945233681",
-   "titolo": "Junior Java Developer (m/w/d)",
-   "azienda": "Senacor Technologies AG",
-   "citta": "Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-10-29",
-   "url": "https://www.adzuna.de/land/ad/5945233681?se=tLIrGIXX8RGccYoPu-e9eg&utm_medium=api&utm_source=76bb5840&v=4D5CF91E31F569F28A8EC18EAC79A8B72EC06CE5",
-   "contratto": "",
-   "descrizione": "Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code - du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe . klicken sie bewerben, für die volle Stel"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5945133066",
-   "titolo": "Junior Java Developer (m/w/d)",
-   "azienda": "Senacor Technologies AG",
-   "citta": "Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-10-29",
-   "url": "https://www.adzuna.de/land/ad/5945133066?se=tLIrGIXX8RGccYoPu-e9eg&utm_medium=api&utm_source=76bb5840&v=14355F7C41FF04F54FC77F55411FA0D7AAC09B40",
-   "contratto": "",
-   "descrizione": "Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexible Zusammenarb"
   },
   {
    "profiloId": "java-junior",
@@ -248,15 +204,63 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5943648036",
-   "titolo": "Junior Java Developer",
-   "azienda": "Futurum Technology Ltd.",
-   "citta": "Kraków, małopolskie",
-   "paese": "Polonia",
-   "pubblicato": "2026-10-27",
-   "url": "https://www.adzuna.pl/details/5943648036?utm_medium=api&utm_source=76bb5840",
+   "adzunaId": "5952303473",
+   "titolo": "Low Latency Java Engineer (VP)",
+   "azienda": "Citigroup",
+   "citta": "London, UK",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.co.uk/jobs/details/5952303473?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
-   "descrizione": "Job Description We are recruiting for the position of Java Developer. We are looking for people to join to teams that will work on project that we implement for our client. Tasks: Development of dedicated applications (Java, Spring); Component development and integration; Working with technical documentation."
+   "descrizione": "Low Latency Java Engineer Engineer the future of global finance. At Citi, our Tech team doesn't just support finance - we are helping to redefine it. Every day, $5 trillion crosses through our network. We do business in 180 countries operating at a scale few can match. From deploying advanced AI to helping shape global markets, we build systems that matter. Look to join a team where your work help"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5952303469",
+   "titolo": "Junior Fullstack Java Developer",
+   "azienda": "Citigroup",
+   "citta": "Belfast, Northern Ireland",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.co.uk/jobs/details/5952303469?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Build the next generation of reconciliation technology as a Full Stack Developer at Citi, where your code will power platforms that keep global financial operations accurate and reliable. In this role, you will design, develop, and support a modern reconciliation platform using Java, Angular, NoSQL, and Oracle, working alongside a technology team that values hands-on ownership and continuous impro"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5952303430",
+   "titolo": "Senior Low Latency Rust Engineer",
+   "azienda": "Citigroup",
+   "citta": "London, UK",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.co.uk/jobs/details/5952303430?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Senior Low Latency Rust Engineer Engineer the future of global finance. At Citi, our Tech team doesn't just support finance - we are helping to redefine it. Every day, $5 trillion crosses through our network. We do business in 180 countries operating at a scale few can match. From deploying advanced AI to helping shape global markets, we build systems that matter. Look to join a team where your wo"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5952303466",
+   "titolo": "Low Latency Rust Software Engineer",
+   "azienda": "Citigroup",
+   "citta": "London, UK",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.co.uk/jobs/details/5952303466?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Low Latency Rust Engineer Engineer the future of global finance. At Citi, our Tech team doesn't just support finance - we are helping to redefine it. Every day, $5 trillion crosses through our network. We do business in 180 countries operating at a scale few can match. From deploying advanced AI to helping shape global markets, we build systems that matter. Look to join a team where your work help"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5952303411",
+   "titolo": "Senior Low Latency Java Engineer",
+   "azienda": "Citigroup",
+   "citta": "London, UK",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-04",
+   "url": "https://www.adzuna.co.uk/jobs/details/5952303411?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Senior Low Latency Java Engineer This is a senior level position responsible for establishing and implementing new or revised application systems and programs in coordination with the Technology Team. The overall objective of this role is to lead applications systems analysis and programming activities. The role is to provide senior, low-latency systems and application framework engineering (skill"
   },
   {
    "profiloId": "java-junior",
@@ -266,7 +270,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=SiGZHoXX8RGn__h4lp94MQ&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=jGQ6vk_Y8RG1BbAFnbpeog&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
   },
