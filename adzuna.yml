@@ -1,0 +1,40 @@
+name: Adzuna – raccolta offerte
+
+on:
+  schedule:
+    # Più orari, minuti non tondi: GitHub può ritardare o saltare i cron
+    - cron: "47 3,4,9,10 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - profili.json
+      - scripts/adzuna.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: adzuna
+  cancel-in-progress: false
+
+jobs:
+  raccolta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Interroga Adzuna
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scripts/adzuna.py
+      - name: Salva i risultati
+        run: |
+          git config user.name "radar-placement-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/adzuna.json
+          git diff --cached --quiet || git commit -m "Adzuna: aggiornamento offerte"
+          git pull --rebase
+          git push
