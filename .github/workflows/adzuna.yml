@@ -2,8 +2,8 @@ name: Adzuna – raccolta offerte
 
 on:
   schedule:
-    # 5:20 e 11:20 UTC: prima delle scansioni delle 7:40 e 13:40 (ora di Roma)
-    - cron: "20 5,11 * * *"
+    # Più orari, minuti non tondi: GitHub può ritardare o saltare i cron
+    - cron: "47 3,4,9,10 * * *"
   workflow_dispatch:
   push:
     paths:
