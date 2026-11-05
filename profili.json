@@ -1,10 +1,28 @@
 [
   {
+    "id": "goplc7rq22pns52ptbl0",
+    "ruolo": "angular",
+    "seniority": "Junior",
+    "italia": true,
+    "europa": false,
+    "remoto": true,
+    "attivo": true
+  },
+  {
     "id": "java-junior",
     "ruolo": "Java developer",
     "seniority": "Junior",
     "italia": true,
     "europa": true,
+    "remoto": true,
+    "attivo": true
+  },
+  {
+    "id": "l4ipayk9re10z901vvim",
+    "ruolo": "Angular",
+    "seniority": "Junior",
+    "italia": true,
+    "europa": false,
     "remoto": true,
     "attivo": true
   }
