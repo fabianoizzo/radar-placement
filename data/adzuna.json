@@ -1,8 +1,10 @@
 {
- "generato": "2026-11-05T13:14:52+00:00",
+ "generato": "2026-11-05T15:21:05+00:00",
  "giorni_max": 14,
  "profili": [
-  "java-junior"
+  "goplc7rq22pns52ptbl0",
+  "java-junior",
+  "l4ipayk9re10z901vvim"
  ],
  "errori": [],
  "risultati": [
@@ -302,7 +304,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=zlgt4hrZ8RGjs5qvLAQ_DA&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=OtUogyzZ8RG4Cd5nUVEYuw&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
   },
