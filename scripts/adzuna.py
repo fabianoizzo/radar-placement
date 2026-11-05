@@ -58,8 +58,20 @@ def chiama(paese, params, app_id, app_key):
     }
     url = base + "?" + urllib.parse.urlencode(p)
     req = urllib.request.Request(url, headers={"Accept": "application/json"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    for tentativo in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and tentativo < 3:
+                time.sleep(5 * 2 ** tentativo)  # 5s, 10s, 20s
+                continue
+            raise
+        except (urllib.error.URLError, TimeoutError):
+            if tentativo < 3:
+                time.sleep(5 * 2 ** tentativo)
+                continue
+            raise
 
 
 def main():
