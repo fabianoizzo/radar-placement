@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-11T11:28:47+00:00",
+ "generato": "2026-11-12T11:53:33+00:00",
  "giorni_max": 14,
  "profili": [
   "goplc7rq22pns52ptbl0",
@@ -8,6 +8,18 @@
  ],
  "errori": [],
  "risultati": [
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962471843",
+   "titolo": "Junior Java Developer - brescia",
+   "azienda": "Dacomat srl",
+   "citta": "Brescia, Provincia di Brescia",
+   "paese": "Italia",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.it/details/5962471843?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Junior Java Developer – Software di prodotto in ambito Finance (Ibrido – Brescia) Dacomat cerca un/una Junior Java Developer da inserire nel team tecnico di un prodotto software in ambito finance . È un’opportunità per chi vuole crescere nello sviluppo backend su un prodotto strutturato, affiancato da colleghi esperti. Attività Sviluppare nuove funzionalità del prodotto Fare manutenzione correttiv"
+  },
   {
    "profiloId": "java-junior",
    "adzunaId": "5953152747",
@@ -19,6 +31,30 @@
    "url": "https://www.adzuna.it/details/5953152747?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "La tecnologia innova il business. Le persone fanno la differenza. Nel Gruppo Relatech crediamo che l'innovazione abbia valore solo quando genera un impatto reale. Accompagniamo le aziende di ogni settore nella trasformazione digitale, offrendo servizi e progettando soluzioni che integrano dati, Artificial Intelligence e tecnologie innovative, dalla strategia all'execution. Lo facciamo grazie a qua"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962717032",
+   "titolo": "Junior Java Developer (m/w/d) - Konstanz",
+   "azienda": "",
+   "citta": "Fürstenberg, Konstanz",
+   "paese": "Germania",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.de/details/5962717032?utm_medium=api&utm_source=76bb5840",
+   "contratto": "permanent",
+   "descrizione": "Junior Java Developer (m/w/d) - Konstanz Festanstellung, Vollzeit · Konstanz Deine Aufgaben Du bist überzeugt, dass innovative Technologie und Software gesellschaftlich relevante Themen unterstützt, verändert und vorantreibt? Das sind wir auch! Unsere Kund:innen sind vielfältig. Unsere Software Projekte ebenso. Wir lassen die großen Visionen unserer Kund:innen Wirklichkeit werden und helfen ihnen "
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962603908",
+   "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
+   "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
+   "citta": "Anderten, Hannover",
+   "paese": "Germania",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.de/details/5962603908?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
   },
   {
    "profiloId": "java-junior",
@@ -34,18 +70,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5959021437",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Bonn, Nordrhein-Westfalen",
-   "paese": "Germania",
-   "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021437?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5959021438",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -53,18 +77,6 @@
    "paese": "Germania",
    "pubblicato": "2026-11-09",
    "url": "https://www.adzuna.de/details/5959021438?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5959021434",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Hamburg, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021434?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -82,6 +94,30 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5959021436",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Frankfurt am Main, Hessen",
+   "paese": "Germania",
+   "pubblicato": "2026-11-09",
+   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5959021434",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Hamburg, Deutschland",
+   "paese": "Germania",
+   "pubblicato": "2026-11-09",
+   "url": "https://www.adzuna.de/details/5959021434?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5959021439",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -94,13 +130,13 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5959021436",
+   "adzunaId": "5959021437",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
-   "citta": "Frankfurt am Main, Hessen",
+   "citta": "Bonn, Nordrhein-Westfalen",
    "paese": "Germania",
    "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
+   "url": "https://www.adzuna.de/details/5959021437?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -154,18 +190,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5946820965",
-   "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
-   "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
-   "citta": "Anderten, Hannover",
-   "paese": "Germania",
-   "pubblicato": "2026-10-30",
-   "url": "https://www.adzuna.de/details/5946820965?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5945373724",
    "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
    "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
@@ -178,13 +202,25 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5963007832",
+   "titolo": "Junior Java Developer",
+   "azienda": "dentsu",
+   "citta": "Barcelona, Cataluña",
+   "paese": "Spagna",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.es/details/5963007832?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Job Description We Dream. We Do. We Deliver. At Merkle, a dentsu company, we power the experience economy. Whether we’re building the next great app, running CRM at scale for global brands, delivering technology architectures that support millions of users, or providing world-class data, identity, and insights solutions, it’s all in the name of crafting experiences that set brands apart from the c"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5954162139",
    "titolo": "Junior Java Developer (Sistemas IoT)",
    "azienda": "Knowmad Mood",
    "citta": "Madrid",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954162139?se=FugCC8Pd8RGDz_yCA39Obg&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
+   "url": "https://www.adzuna.es/land/ad/5954162139?se=AhUdq4_e8RGmbv3wRfmprA&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
    "contratto": "",
    "descrizione": "We are knowmad mood! Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y de"
   },
@@ -196,7 +232,7 @@
    "citta": "Barcelona",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954142568?se=FugCC8Pd8RGDz_yCA39Obg&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
+   "url": "https://www.adzuna.es/land/ad/5954142568?se=AhUdq4_e8RGmbv3wRfmprA&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
    "contratto": "",
    "descrizione": "Job Description: We Dream. We Do. We Deliver. At Merkle , a dentsu company, we power the experience economy. Whether we’re building the next great app, running CRM at scale for global brands, delivering technology architectures that support millions of users, or providing world-class data, identity, and insights solutions, it’s all in the name of crafting experiences that set brands apart from the"
   },
@@ -208,7 +244,7 @@
    "citta": "Wien, Österreich",
    "paese": "Austria",
    "pubblicato": "2026-11-06",
-   "url": "https://www.adzuna.at/land/ad/5955911455?se=9qTdC8Pd8RGAkYfgqEGHtA&utm_medium=api&utm_source=76bb5840&v=13001E39793DA6A354C2B9F49D45F1E806E4FD5A",
+   "url": "https://www.adzuna.at/details/5955911455?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexible Zusammenarb"
   },
@@ -292,21 +328,9 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=KnI0DsPd8RGZ8OPqZjk9Ow&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=AohHro_e8RGpVeOdJE843w&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5944639759",
-   "titolo": "Junior Java Developer (IT)",
-   "azienda": "LA International Computer Consultants Ltd",
-   "citta": "Borough, South East London",
-   "paese": "Regno Unito",
-   "pubblicato": "2026-10-28",
-   "url": "https://www.adzuna.co.uk/jobs/details/5944639759?utm_medium=api&utm_source=76bb5840",
-   "contratto": "contract",
-   "descrizione": "Junior Java Developer (1-4 years experience) We are looking for a number of Junior Java Developers for a Public Sector client. You will have between 1 to 4 years experience with a keenness to further develop your skills and experience in Java software development. * Programming Languages: Proficiency in Java (often Java 11 or newer) and Object-Oriented Programming (OOP). * Frameworks: Familiarity "
   }
  ]
 }
