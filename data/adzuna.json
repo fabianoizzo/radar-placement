@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-12T11:53:33+00:00",
+ "generato": "2026-11-13T11:37:23+00:00",
  "giorni_max": 14,
  "profili": [
   "goplc7rq22pns52ptbl0",
@@ -8,6 +8,54 @@
  ],
  "errori": [],
  "risultati": [
+  {
+   "profiloId": "goplc7rq22pns52ptbl0",
+   "adzunaId": "5963983197",
+   "titolo": "JUNIOR FULL STACK DEVELOPER",
+   "azienda": "La Soluzione S.p.A.",
+   "citta": "Provincia di Milano, Lombardia",
+   "paese": "Italia",
+   "pubblicato": "2026-11-13",
+   "url": "https://www.adzuna.it/details/5963983197?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "La Soluzione S.p.A. Agenzia per il Lavoro, filiale di Verona con Autorizzazione Ministeriale Definitiva Prot. N° 0000518 del 18/11/2025, ricerca per azienda cliente: Junior Full Stack Developer – NESTJS / ANGULAR Responsabilità: - Sviluppo e implementazione di nuove funzionalità per una piattaforma aziendale DAM (Digital Asset Management), dedicata alla gestione di immagini e contenuti digitali; -"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5963432113",
+   "titolo": "Junior Full Stack Developer Windows/Java",
+   "azienda": "TXT Group",
+   "citta": "Grottaglie, Provincia di Taranto",
+   "paese": "Italia",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.it/details/5963432113?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "TXT e-Tech Srl, società del Gruppo TXT, è alla ricerca di 2 Defence Software Analyst da inserire presso un importante cliente del settore Aerospace & Defence con sede a Grottaglie (TA). La persona selezionata contribuirà all'evoluzione di un sistema proprietario dedicato al monitoraggio e alla gestione della flotta aerea, collaborando con team multidisciplinari nelle attività di analisi, sviluppo "
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962546293",
+   "titolo": "Junior Full Stack Developer Windows/Java",
+   "azienda": "TXT e-solutions SPA",
+   "citta": "Taranto, Provincia di Taranto",
+   "paese": "Italia",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.it/details/5962546293?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "TXT e-Tech Srl , part of the TXT Group , is seeking two Defence Software Analysts to join a major client in the Aerospace & Defence industry, based in Grottaglie, Italy . Successful candidates will contribute to the development and enhancement of a proprietary platform used for aircraft fleet monitoring and management. Working within a multidisciplinary team, they will play an active role in the a"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962546297",
+   "titolo": "Junior Full Stack Developer Windows/Java",
+   "azienda": "TXT e-solutions SPA",
+   "citta": "Taranto, Provincia di Taranto",
+   "paese": "Italia",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.it/details/5962546297?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "TXT e-Tech Srl , società del Gruppo TXT , è alla ricerca di 2 Defence Software Analyst da inserire presso un importante cliente del settore Aerospace & Defence con sede a Grottaglie (TA) . La persona selezionata contribuirà all'evoluzione di un sistema proprietario dedicato al monitoraggio e alla gestione della flotta aerea, collaborando con team multidisciplinari nelle attività di analisi, svilup"
+  },
   {
    "profiloId": "java-junior",
    "adzunaId": "5962471843",
@@ -31,30 +79,6 @@
    "url": "https://www.adzuna.it/details/5953152747?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "La tecnologia innova il business. Le persone fanno la differenza. Nel Gruppo Relatech crediamo che l'innovazione abbia valore solo quando genera un impatto reale. Accompagniamo le aziende di ogni settore nella trasformazione digitale, offrendo servizi e progettando soluzioni che integrano dati, Artificial Intelligence e tecnologie innovative, dalla strategia all'execution. Lo facciamo grazie a qua"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962717032",
-   "titolo": "Junior Java Developer (m/w/d) - Konstanz",
-   "azienda": "",
-   "citta": "Fürstenberg, Konstanz",
-   "paese": "Germania",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.de/details/5962717032?utm_medium=api&utm_source=76bb5840",
-   "contratto": "permanent",
-   "descrizione": "Junior Java Developer (m/w/d) - Konstanz Festanstellung, Vollzeit · Konstanz Deine Aufgaben Du bist überzeugt, dass innovative Technologie und Software gesellschaftlich relevante Themen unterstützt, verändert und vorantreibt? Das sind wir auch! Unsere Kund:innen sind vielfältig. Unsere Software Projekte ebenso. Wir lassen die großen Visionen unserer Kund:innen Wirklichkeit werden und helfen ihnen "
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962603908",
-   "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
-   "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
-   "citta": "Anderten, Hannover",
-   "paese": "Germania",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.de/details/5962603908?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
   },
   {
    "profiloId": "java-junior",
@@ -89,18 +113,6 @@
    "paese": "Germania",
    "pubblicato": "2026-11-09",
    "url": "https://www.adzuna.de/details/5959021433?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5959021436",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Frankfurt am Main, Hessen",
-   "paese": "Germania",
-   "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -142,6 +154,18 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5959021436",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Frankfurt am Main, Hessen",
+   "paese": "Germania",
+   "pubblicato": "2026-11-09",
+   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5958917279",
    "titolo": "Junior Developer (m/w/d) Java & SQL",
    "azienda": "Amadeus Fire AG",
@@ -166,42 +190,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5950178608",
-   "titolo": "Junior Java Developer (m/w/d)",
-   "azienda": "SEITENBAU GmbH",
-   "citta": "Fürstenberg, Konstanz",
-   "paese": "Germania",
-   "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.de/details/5950178608?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Du bist überzeugt, dass innovative Technologie und Software gesellschaftlich relevante Themen unterstützt, verändert und vorantreibt? Das sind wir auch! Unsere Kund:innen sind vielfältig. Unsere Software Projekte ebenso. Wir lassen die großen Visionen unserer Kund:innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei setzen wir auf unsere Begeist"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5949481981",
-   "titolo": "Junior Java Developer (m/w/d)",
-   "azienda": "SEITENBAU GmbH",
-   "citta": "Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-01",
-   "url": "https://www.adzuna.de/details/5949481981?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Junior Java Developer (m/w/d) - Konstanz Bewerben Sie sich (indem Sie auf die entsprechende Schaltfläche klicken), nachdem Sie alle Informationen zu dieser Stelle durchgelesen haben. Festanstellung, Vollzeit · Konstanz Deine Aufgaben Du bist überzeugt, dass innovative Technologie und Software gesellschaftlich relevante Themen unterstützt, verändert und vorantreibt? Das sind wir auch! Unsere Kund:i"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5945373724",
-   "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
-   "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
-   "citta": "Anderten, Hannover",
-   "paese": "Germania",
-   "pubblicato": "2026-10-29",
-   "url": "https://www.adzuna.de/details/5945373724?utm_medium=api&utm_source=76bb5840",
-   "contratto": "permanent",
-   "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5963007832",
    "titolo": "Junior Java Developer",
    "azienda": "dentsu",
@@ -214,13 +202,25 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5962959406",
+   "titolo": "Expert Java Developer - GTB",
+   "azienda": "Talan",
+   "citta": "Málaga, Andalucía",
+   "paese": "Spagna",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.es/details/5962959406?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Talan – Positive Innovation Talan is an international consulting group specializing in innovation and business transformation through technology. With over 7,200 consultants in 21 countries and a turnover of €850M, we are committed to delivering impactful, future‑ready solutions. Talan at a Glance Headquartered in Paris and operating globally, Talan combines technology, innovation, and empowerment"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5954162139",
    "titolo": "Junior Java Developer (Sistemas IoT)",
    "azienda": "Knowmad Mood",
    "citta": "Madrid",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954162139?se=AhUdq4_e8RGmbv3wRfmprA&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
+   "url": "https://www.adzuna.es/land/ad/5954162139?se=gj7wk1bf8RGeRcETzs7BxQ&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
    "contratto": "",
    "descrizione": "We are knowmad mood! Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y de"
   },
@@ -232,7 +232,7 @@
    "citta": "Barcelona",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954142568?se=AhUdq4_e8RGmbv3wRfmprA&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
+   "url": "https://www.adzuna.es/land/ad/5954142568?se=gj7wk1bf8RGeRcETzs7BxQ&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
    "contratto": "",
    "descrizione": "Job Description: We Dream. We Do. We Deliver. At Merkle , a dentsu company, we power the experience economy. Whether we’re building the next great app, running CRM at scale for global brands, delivering technology architectures that support millions of users, or providing world-class data, identity, and insights solutions, it’s all in the name of crafting experiences that set brands apart from the"
   },
@@ -259,6 +259,18 @@
    "url": "https://www.adzuna.at/details/5955777414?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexible Zusammenarb"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5964001953",
+   "titolo": "Junior Java/DevOps Engineer @ Motorola Solutions Systems Polska",
+   "azienda": "Motorola Solutions Systems Polska",
+   "citta": "Kraków, małopolskie",
+   "paese": "Polonia",
+   "pubblicato": "2026-11-13",
+   "url": "https://www.adzuna.pl/details/5964001953?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Practical experience 1 years with modern DevOps tooling (including CI/CD pipelines) 1 year experience with Java Practical knowledge about microservices and REST API English min.B2 (for efficient communication with our peers and customers in North America). Must have: Docker Basic Cloud experience with AWS or Azure or private Cloud Java Automated testing experience Understanding of the following pr"
   },
   {
    "profiloId": "java-junior",
@@ -292,7 +304,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.co.uk/jobs/details/5954323903?utm_medium=api&utm_source=76bb5840",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5954323903?se=DvPKllbf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=76bb5840&v=D8ACBE13DAC7C39B41C3AE032D9DEF83A6370880",
    "contratto": "",
    "descrizione": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you'll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview Senior Low Latency Engineer Engineer the future of global finance. At Citi, our Tech team doesn't ju"
   },
@@ -328,9 +340,21 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=AohHro_e8RGpVeOdJE843w&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=DvPKllbf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
+  },
+  {
+   "profiloId": "l4ipayk9re10z901vvim",
+   "adzunaId": "5963983197",
+   "titolo": "JUNIOR FULL STACK DEVELOPER",
+   "azienda": "La Soluzione S.p.A.",
+   "citta": "Provincia di Milano, Lombardia",
+   "paese": "Italia",
+   "pubblicato": "2026-11-13",
+   "url": "https://www.adzuna.it/details/5963983197?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "La Soluzione S.p.A. Agenzia per il Lavoro, filiale di Verona con Autorizzazione Ministeriale Definitiva Prot. N° 0000518 del 18/11/2025, ricerca per azienda cliente: Junior Full Stack Developer – NESTJS / ANGULAR Responsabilità: - Sviluppo e implementazione di nuove funzionalità per una piattaforma aziendale DAM (Digital Asset Management), dedicata alla gestione di immagini e contenuti digitali; -"
   }
  ]
 }
