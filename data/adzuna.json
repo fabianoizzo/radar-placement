@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-13T11:37:23+00:00",
+ "generato": "2026-11-14T10:58:50+00:00",
  "giorni_max": 14,
  "profili": [
   "goplc7rq22pns52ptbl0",
@@ -34,18 +34,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5962546293",
-   "titolo": "Junior Full Stack Developer Windows/Java",
-   "azienda": "TXT e-solutions SPA",
-   "citta": "Taranto, Provincia di Taranto",
-   "paese": "Italia",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.it/details/5962546293?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "TXT e-Tech Srl , part of the TXT Group , is seeking two Defence Software Analysts to join a major client in the Aerospace & Defence industry, based in Grottaglie, Italy . Successful candidates will contribute to the development and enhancement of a proprietary platform used for aircraft fleet monitoring and management. Working within a multidisciplinary team, they will play an active role in the a"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5962546297",
    "titolo": "Junior Full Stack Developer Windows/Java",
    "azienda": "TXT e-solutions SPA",
@@ -55,6 +43,18 @@
    "url": "https://www.adzuna.it/details/5962546297?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "TXT e-Tech Srl , società del Gruppo TXT , è alla ricerca di 2 Defence Software Analyst da inserire presso un importante cliente del settore Aerospace & Defence con sede a Grottaglie (TA) . La persona selezionata contribuirà all'evoluzione di un sistema proprietario dedicato al monitoraggio e alla gestione della flotta aerea, collaborando con team multidisciplinari nelle attività di analisi, svilup"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5962546293",
+   "titolo": "Junior Full Stack Developer Windows/Java",
+   "azienda": "TXT e-solutions SPA",
+   "citta": "Taranto, Provincia di Taranto",
+   "paese": "Italia",
+   "pubblicato": "2026-11-12",
+   "url": "https://www.adzuna.it/details/5962546293?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "TXT e-Tech Srl , part of the TXT Group , is seeking two Defence Software Analysts to join a major client in the Aerospace & Defence industry, based in Grottaglie, Italy . Successful candidates will contribute to the development and enhancement of a proprietary platform used for aircraft fleet monitoring and management. Working within a multidisciplinary team, they will play an active role in the a"
   },
   {
    "profiloId": "java-junior",
@@ -94,6 +94,18 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5959021436",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Frankfurt am Main, Hessen",
+   "paese": "Germania",
+   "pubblicato": "2026-11-09",
+   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5959021438",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -101,30 +113,6 @@
    "paese": "Germania",
    "pubblicato": "2026-11-09",
    "url": "https://www.adzuna.de/details/5959021438?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5959021433",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Nürnberg, Bayern",
-   "paese": "Germania",
-   "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021433?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5959021434",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Hamburg, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021434?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -142,6 +130,18 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5959021433",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Nürnberg, Bayern",
+   "paese": "Germania",
+   "pubblicato": "2026-11-09",
+   "url": "https://www.adzuna.de/details/5959021433?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5959021437",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -154,13 +154,13 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5959021436",
+   "adzunaId": "5959021434",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
-   "citta": "Frankfurt am Main, Hessen",
+   "citta": "Hamburg, Deutschland",
    "paese": "Germania",
    "pubblicato": "2026-11-09",
-   "url": "https://www.adzuna.de/details/5959021436?utm_medium=api&utm_source=76bb5840",
+   "url": "https://www.adzuna.de/details/5959021434?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -187,6 +187,30 @@
    "url": "https://www.adzuna.de/details/5953234432?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Du entwickelst moderne Software und möchtest deine Java-Kenntnisse in spannenden Digitalisierungsprojekten einsetzen? Als Java Entwickler (m/w/d) arbeitest du in Dresden in kleinen, technisch geprägten Teams und gestaltest Lösungen von der Idee bis zum Rollout. Die DIS AG eröffnet dir dabei den Zugang zu einem international führenden Prüfdienstleister. Aufgaben Du entwickelst sauberen und effizien"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5964984586",
+   "titolo": "Senior Java Developer",
+   "azienda": "Smals",
+   "citta": "Brussel, Brussel Hoofdstad",
+   "paese": "Belgio",
+   "pubblicato": "2026-11-13",
+   "url": "https://www.adzuna.be/details/5964984586?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Uw rol Heb je al een aantal jaren ervaring als Java developer? Wil je junior software developers de kneepjes van het vak leren? Ben je klaar voor de volgende stap in jouw carrière en wil je je Java-kennis graag inzetten voor de maatschappij? Dat kan bij Smals! Als Java Developer ontwikkel je nieuwe applicaties, pas je bestaande programma's aan en test en documenteer je je werk. Je streeft er voort"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5964562494",
+   "titolo": "Senior Java Developer",
+   "azienda": "Smals",
+   "citta": "België",
+   "paese": "Belgio",
+   "pubblicato": "2026-11-13",
+   "url": "https://www.adzuna.be/details/5964562494?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Smals realiseert innovatieve ICT-projecten in e-government en e-health voor instellingen uit de sociale zekerheid en de gezondheidszorg. 'ICT for society' is voor Smals meer dan een slogan: alle projecten hebben een positieve maatschappelijke impact. Zo bouwt Smals mee aan het portaal van de sociale zekerheid en het eHealth-platform. Grensverleggende projecten zijn ons werkterrein: Student@Work, O"
   },
   {
    "profiloId": "java-junior",
@@ -220,7 +244,7 @@
    "citta": "Madrid",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954162139?se=gj7wk1bf8RGeRcETzs7BxQ&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
+   "url": "https://www.adzuna.es/land/ad/5954162139?se=SNylWxrg8RGNl561rfNY_A&utm_medium=api&utm_source=76bb5840&v=FEA6E6593FB9273BD9F28D861EBED6450BEA2E7E",
    "contratto": "",
    "descrizione": "We are knowmad mood! Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y de"
   },
@@ -232,7 +256,7 @@
    "citta": "Barcelona",
    "paese": "Spagna",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.es/land/ad/5954142568?se=gj7wk1bf8RGeRcETzs7BxQ&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
+   "url": "https://www.adzuna.es/land/ad/5954142568?se=SNylWxrg8RGNl561rfNY_A&utm_medium=api&utm_source=76bb5840&v=DA13AC2DC9EDE5B139D222DCC19E227E2B7DB347",
    "contratto": "",
    "descrizione": "Job Description: We Dream. We Do. We Deliver. At Merkle , a dentsu company, we power the experience economy. Whether we’re building the next great app, running CRM at scale for global brands, delivering technology architectures that support millions of users, or providing world-class data, identity, and insights solutions, it’s all in the name of crafting experiences that set brands apart from the"
   },
@@ -304,7 +328,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-05",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5954323903?se=DvPKllbf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=76bb5840&v=D8ACBE13DAC7C39B41C3AE032D9DEF83A6370880",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5954323903?se=VNZvXhrg8RG3UKJUaLg__w&utm_medium=api&utm_source=76bb5840&v=D8ACBE13DAC7C39B41C3AE032D9DEF83A6370880",
    "contratto": "",
    "descrizione": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you'll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview Senior Low Latency Engineer Engineer the future of global finance. At Citi, our Tech team doesn't ju"
   },
@@ -340,7 +364,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-02",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=DvPKllbf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252688?se=VNZvXhrg8RG3UKJUaLg__w&utm_medium=api&utm_source=76bb5840&v=DF99360757625E22062C4B6C551C53E2073F62E2",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
   },
