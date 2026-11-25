@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T14:18:58+00:00",
+ "generato": "2026-11-25T13:33:22+00:00",
  "giorni_max": 14,
  "profili": [
   "goplc7rq22pns52ptbl0",
@@ -94,18 +94,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5968071330",
-   "titolo": "Java Developer Junior",
-   "azienda": "CONTRADER ENGINEERING SRL",
-   "citta": "Cologno Monzese, Provincia di Milano",
-   "paese": "Italia",
-   "pubblicato": "2026-11-16",
-   "url": "https://www.adzuna.it/details/5968071330?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Sei un* Java Developer pront* a nuove sfide? Allora continua a leggere, perché ti stiamo cercando per un'opportunità di carriera unica! La risorsa sarà inserita nel team tecnico dedicato allo sviluppo e alla gestione di un prodotto software proprietario del cliente finale in ambito finance. Le responsabilità Sviluppare e implementare nuove funzionalità software utilizzando Java; Partecipare alle a"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5963432113",
    "titolo": "Junior Full Stack Developer Windows/Java",
    "azienda": "TXT Group",
@@ -154,39 +142,15 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5975965775",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Nürnberg, Bayern",
+   "adzunaId": "5977926044",
+   "titolo": "Junior-Java-Developer (m/w/d) in Direktvermittlung",
+   "azienda": "RADAS Jobbörse & Personalvermittlung GmbH",
+   "citta": "Anderten, Hannover",
    "paese": "Germania",
-   "pubblicato": "2026-11-23",
-   "url": "https://www.adzuna.de/details/5975965775?utm_medium=api&utm_source=76bb5840",
+   "pubblicato": "2026-11-25",
+   "url": "https://www.adzuna.de/details/5977926044?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5975965771",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Berlin, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-23",
-   "url": "https://www.adzuna.de/details/5975965771?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5975965765",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Hamburg, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-23",
-   "url": "https://www.adzuna.de/details/5975965765?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+   "descrizione": "DIREKTVERMITTLUNG in Festanstellung (keine Zeitarbeit) / Vermittlungsgutscheine (AVGS) werden akzeptiert Bei Fragen einfach unverbindlich anrufen: 03048479484 oder einen Rückruf vereinbaren: https://radas.de/ Ihre Aufgaben: Implementierung von Programmiersprachen Realisierung von komplexen Datenmodellen Kontrolle der Datenbanksysteme Konzeption, Programmierung von Datenbankanwendungen und Wartung "
   },
   {
    "profiloId": "java-junior",
@@ -226,6 +190,42 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5975965771",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Berlin, Deutschland",
+   "paese": "Germania",
+   "pubblicato": "2026-11-23",
+   "url": "https://www.adzuna.de/details/5975965771?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5975965765",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Hamburg, Deutschland",
+   "paese": "Germania",
+   "pubblicato": "2026-11-23",
+   "url": "https://www.adzuna.de/details/5975965765?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5975965775",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Nürnberg, Bayern",
+   "paese": "Germania",
+   "pubblicato": "2026-11-23",
+   "url": "https://www.adzuna.de/details/5975965775?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5969279377",
    "titolo": "Junior Developer Java",
    "azienda": "Evident Recruitment",
@@ -259,6 +259,18 @@
    "url": "https://www.adzuna.be/details/5964562494?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Smals realiseert innovatieve ICT-projecten in e-government en e-health voor instellingen uit de sociale zekerheid en de gezondheidszorg. 'ICT for society' is voor Smals meer dan een slogan: alle projecten hebben een positieve maatschappelijke impact. Zo bouwt Smals mee aan het portaal van de sociale zekerheid en het eHealth-platform. Grensverleggende projecten zijn ons werkterrein: Student@Work, O"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5978244355",
+   "titolo": "Junior Java Developer — Platform Innovator",
+   "azienda": "Denodo",
+   "citta": "A Coruña, Galicia",
+   "paese": "Spagna",
+   "pubblicato": "2026-11-25",
+   "url": "https://www.adzuna.es/details/5978244355?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Denodo is seeking engineers for our Technology team to work as Java Developers on the Denodo Platform. You will join one of the teams responsible for developing and maintaining platform modules, with the possibility of moving to another team in the future and even becoming a team coordinator. The role involves working across diverse areas such as connectors, execution engine, query optimization, c"
   },
   {
    "profiloId": "java-junior",
@@ -322,18 +334,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5975861585",
-   "titolo": "Junior Java Developer (m/w/d) – Einstieg mit Mentoring & Gestaltungsspielraum",
-   "azienda": "talentbird GmbH",
-   "citta": "Wien, Österreich",
-   "paese": "Austria",
-   "pubblicato": "2026-11-23",
-   "url": "https://www.adzuna.at/details/5975861585?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Du möchtest in einem kompakten, eingespielten Team an modernen Softwarelösungen arbeiten – mit echtem Gestaltungsspielraum, kurzen Entscheidungswegen und Freude an sauberem Code? Unser Kunde vergrößert sein Entwicklerteam und sucht genau dich für den Berufseinstieg oder den nächsten Karriereschritt im Backend – und wenn du Lust darauf hast, kannst du dich schrittweise auch als Fullstack Developer "
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5973175660",
    "titolo": "Junior Java Developer (m/w/d) – Einstieg mit Mentoring & Gestaltungsspielraum",
    "azienda": "talentbird GmbH",
@@ -352,7 +352,7 @@
    "citta": "Kraków, małopolskie",
    "paese": "Polonia",
    "pubblicato": "2026-11-13",
-   "url": "https://www.adzuna.pl/land/ad/5964001953?se=gBc1-hHo8RGOXfS-Av47OQ&utm_medium=api&utm_source=76bb5840&v=A5DCC251CE12B456871BA10405577A82568D90F1",
+   "url": "https://www.adzuna.pl/details/5964001953?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Practical experience 1 years with modern DevOps tooling (including CI/CD pipelines) 1 year experience with Java Practical knowledge about microservices and REST API English min.B2 (for efficient communication with our peers and customers in North America). Must have: Docker Basic Cloud experience with AWS or Azure or private Cloud Java Automated testing experience Understanding of the following pr"
   },
@@ -370,25 +370,13 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5970394902",
-   "titolo": "Junior Java Developer - Macquarie Group",
-   "azienda": "Macquarie Group",
-   "citta": "London, UK",
-   "paese": "Regno Unito",
-   "pubblicato": "2026-11-18",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5970394902?se=qn6s-xHo8RGpa9kA69tJwg&utm_medium=api&utm_source=76bb5840&v=DE650F3594A8AD7941CCB84413528E3D9A2B8B27",
-   "contratto": "",
-   "descrizione": "Build technology that supports global financial markets. Join a collaborative technology team where you can strengthen your Java development skills, contribute across the software development lifecycle and work with colleagues around the world to deliver solutions for Commodities and Global Markets. We are a global financial services group operating in 30 markets with 57 years of unbroken profitab"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5967835418",
    "titolo": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
    "azienda": "Noir",
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-16",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835418?se=qn6s-xHo8RGpa9kA69tJwg&utm_medium=api&utm_source=76bb5840&v=A067B4D921FFDF158F53A549610B426DA0D4F4FB",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835418?se=xHR2x9To8RGq4p5KapsR2w&utm_medium=api&utm_source=76bb5840&v=A067B4D921FFDF158F53A549610B426DA0D4F4FB",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
   },
