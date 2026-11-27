@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T13:12:43+00:00",
+ "generato": "2026-11-27T13:10:23+00:00",
  "giorni_max": 14,
  "profili": [
   "goplc7rq22pns52ptbl0",
@@ -94,54 +94,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5963432113",
-   "titolo": "Junior Full Stack Developer Windows/Java",
-   "azienda": "TXT Group",
-   "citta": "Grottaglie, Provincia di Taranto",
-   "paese": "Italia",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.it/details/5963432113?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "TXT e-Tech Srl, società del Gruppo TXT, è alla ricerca di 2 Defence Software Analyst da inserire presso un importante cliente del settore Aerospace & Defence con sede a Grottaglie (TA). La persona selezionata contribuirà all'evoluzione di un sistema proprietario dedicato al monitoraggio e alla gestione della flotta aerea, collaborando con team multidisciplinari nelle attività di analisi, sviluppo "
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962546297",
-   "titolo": "Junior Full Stack Developer Windows/Java",
-   "azienda": "TXT e-solutions SPA",
-   "citta": "Taranto, Provincia di Taranto",
-   "paese": "Italia",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.it/details/5962546297?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "TXT e-Tech Srl , società del Gruppo TXT , è alla ricerca di 2 Defence Software Analyst da inserire presso un importante cliente del settore Aerospace & Defence con sede a Grottaglie (TA) . La persona selezionata contribuirà all'evoluzione di un sistema proprietario dedicato al monitoraggio e alla gestione della flotta aerea, collaborando con team multidisciplinari nelle attività di analisi, svilup"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962546293",
-   "titolo": "Junior Full Stack Developer Windows/Java",
-   "azienda": "TXT e-solutions SPA",
-   "citta": "Taranto, Provincia di Taranto",
-   "paese": "Italia",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.it/details/5962546293?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "TXT e-Tech Srl , part of the TXT Group , is seeking two Defence Software Analysts to join a major client in the Aerospace & Defence industry, based in Grottaglie, Italy . Successful candidates will contribute to the development and enhancement of a proprietary platform used for aircraft fleet monitoring and management. Working within a multidisciplinary team, they will play an active role in the a"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962471843",
-   "titolo": "Junior Java Developer - brescia",
-   "azienda": "Dacomat srl",
-   "citta": "Brescia, Provincia di Brescia",
-   "paese": "Italia",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.it/details/5962471843?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Junior Java Developer – Software di prodotto in ambito Finance (Ibrido – Brescia) Dacomat cerca un/una Junior Java Developer da inserire nel team tecnico di un prodotto software in ambito finance . È un’opportunità per chi vuole crescere nello sviluppo backend su un prodotto strutturato, affiancato da colleghi esperti. Attività Sviluppare nuove funzionalità del prodotto Fare manutenzione correttiv"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5975965764",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -178,18 +130,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5975965771",
-   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
-   "azienda": "Senacor",
-   "citta": "Berlin, Deutschland",
-   "paese": "Germania",
-   "pubblicato": "2026-11-23",
-   "url": "https://www.adzuna.de/details/5975965771?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5975965765",
    "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
    "azienda": "Senacor",
@@ -209,6 +149,18 @@
    "paese": "Germania",
    "pubblicato": "2026-11-23",
    "url": "https://www.adzuna.de/details/5975965762?utm_medium=api&utm_source=76bb5840",
+   "contratto": "",
+   "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
+  },
+  {
+   "profiloId": "java-junior",
+   "adzunaId": "5975965771",
+   "titolo": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+   "azienda": "Senacor",
+   "citta": "Berlin, Deutschland",
+   "paese": "Germania",
+   "pubblicato": "2026-11-23",
+   "url": "https://www.adzuna.de/details/5975965771?utm_medium=api&utm_source=76bb5840",
    "contratto": "",
    "descrizione": "Über Senacor Du brennst für innovative Technologien und moderne Software? Als Developer bei Senacor schreibst du nicht nur Code – du entwickelst und integrierst geschäftskritische Anwendungen, löst komplexe technische Herausforderungen und arbeitest mit einem modernen Tech-Stack. Was uns auszeichnet? Unsere hands-on mentality! Bei Senacor zählen Coaching auf Augenhöhe, echter Teamgeist und flexibl"
   },
@@ -310,30 +262,6 @@
   },
   {
    "profiloId": "java-junior",
-   "adzunaId": "5963007832",
-   "titolo": "Junior Java Developer",
-   "azienda": "dentsu",
-   "citta": "Barcelona, Cataluña",
-   "paese": "Spagna",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.es/details/5963007832?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Job Description We Dream. We Do. We Deliver. At Merkle, a dentsu company, we power the experience economy. Whether we’re building the next great app, running CRM at scale for global brands, delivering technology architectures that support millions of users, or providing world-class data, identity, and insights solutions, it’s all in the name of crafting experiences that set brands apart from the c"
-  },
-  {
-   "profiloId": "java-junior",
-   "adzunaId": "5962959406",
-   "titolo": "Expert Java Developer - GTB",
-   "azienda": "Talan",
-   "citta": "Málaga, Andalucía",
-   "paese": "Spagna",
-   "pubblicato": "2026-11-12",
-   "url": "https://www.adzuna.es/details/5962959406?utm_medium=api&utm_source=76bb5840",
-   "contratto": "",
-   "descrizione": "Talan – Positive Innovation Talan is an international consulting group specializing in innovation and business transformation through technology. With over 7,200 consultants in 21 countries and a turnover of €850M, we are committed to delivering impactful, future‑ready solutions. Talan at a Glance Headquartered in Paris and operating globally, Talan combines technology, innovation, and empowerment"
-  },
-  {
-   "profiloId": "java-junior",
    "adzunaId": "5974377729",
    "titolo": "Junior Java Developer (m/w/d) – Einstieg mit Mentoring & Gestaltungsspielraum",
    "azienda": "talentbird GmbH",
@@ -370,6 +298,18 @@
   },
   {
    "profiloId": "java-junior",
+   "adzunaId": "5980667189",
+   "titolo": "Junior Software Developer with C# C++ Java or Delphi (IT)",
+   "azienda": "Nexus Jobs Limited",
+   "citta": "London, UK",
+   "paese": "Regno Unito",
+   "pubblicato": "2026-11-27",
+   "url": "https://www.adzuna.co.uk/jobs/details/5980667189?utm_medium=api&utm_source=76bb5840",
+   "contratto": "permanent",
+   "descrizione": "Junior Software Developer with C# C++ Java or Delphi Our Client is a boutique software consultancy providing analytical tools and processing software to the retail banking industry. Their tools are used by high street banks and major credit companies to evaluate credit risk of their applicants. They have a large library of Delphi software code incorporating SQL, XML, XSL and data modelling in thei"
+  },
+  {
+   "profiloId": "java-junior",
    "adzunaId": "5976149661",
    "titolo": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
    "azienda": "Noir",
@@ -388,7 +328,7 @@
    "citta": "London, UK",
    "paese": "Regno Unito",
    "pubblicato": "2026-11-16",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835418?se=hJaZD5vp8RG-GM3r_UX54Q&utm_medium=api&utm_source=76bb5840&v=A067B4D921FFDF158F53A549610B426DA0D4F4FB",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835418?se=Kht55mPq8RGmhdBdfAKxBA&utm_medium=api&utm_source=76bb5840&v=A067B4D921FFDF158F53A549610B426DA0D4F4FB",
    "contratto": "",
    "descrizione": "Graduate / Junior Developer, Python, Linux, C#, Java - London (Teck stack: Graduate / Junior Developer, Python, Linux, C#, Java, .NET 10.0, C#, J2EE, Agile, TDD, BDD, Graduate / Junior Developer) Since 2006 our client's revolutionary marketing software platform has been helping businesses all over the world to attract, engage, and delight customers by delivering inbound experiences that are releva"
   },
